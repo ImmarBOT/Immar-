@@ -3,25 +3,11 @@ Título del Proyecto
 Bienvenido a Immar, un proyecto de aprendizaje xD .
 
 ## Descripción
-[Descripción detallada del proyecto, incluyendo sus objetivos, características y funcionalidades].
+[estoy aprendiendo a programar, empezare por familiarizarme con los proyectos pyblicos y a crear mis propios codigos].
 
-## Características
-* [Característica 1]
-* [Característica 2]
-* [Característica 3]
-
-## Requisitos
-* [Requisito 1]
-* [Requisito 2]
-* [Requisito 3]
-
-## Instalación
-1. Clona el repositorio: `git clone https://github.com/[tu-usuario]/[nombre-del-proyecto].git`
-2. Instala las dependencias: `npm install` o `yarn install`
-3. Ejecuta el proyecto: `npm start` o `yarn start`
 
 ## Contribuciones
-Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+[en cuanto tenga algun codigo puedes contribuir. Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos.]
 
 1. Haz un fork del repositorio
 2. Crea una rama para tu contribución
